@@ -193,8 +193,8 @@ Contact name: Антон,
 
 -  [**@valeriia1421**](https://github.com/valeriia1421)
 -  [**@MaksVeter**](https://github.com/MaksVeter )
--  **@PavloRohozhyn**
--  **@sazhukov**
+-  [**@PavloRohozhyn**](https://github.com/PavloRohozhyn)
+-  [**@sazhukov**](https://github.com/sazhukov)
 
 ## Контакти
 
