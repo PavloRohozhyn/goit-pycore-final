@@ -190,7 +190,8 @@ Contact name: Антон,
   
 
 ## Команда і ролі
--  **@valeriia1421** 
+
+-  [**@valeriia1421**](https://github.com/valeriia1421) 
 -  **@MaksVeter**
 -  **@PavloRohozhyn**
 -  **@sazhukov**
